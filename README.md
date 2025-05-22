@@ -20,7 +20,7 @@ Power BI Desktop
 
 📁 Files
 - `reports/HR Project Dashboard.pbix` – Power BI report file  
-- `screenshots/Screenshots HR Project.png` – Dashboard image preview  
+- `screenshots/Screenshots HR Project.pdf` – Dashboard image preview  
 
 🔍 Features
 - Employee demographics analysis  
